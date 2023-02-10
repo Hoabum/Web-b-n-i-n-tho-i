@@ -1,0 +1,130 @@
+footer {
+  margin-top: 80px;
+  background-color: #222;
+}
+
+footer .container .footer-element1 {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding-top: 70px;
+}
+
+footer .container .footer-element1 .logo {
+  width: 360px;
+}
+
+footer .container .footer-element1 .logo a img {
+  width: 110px;
+}
+
+footer .container .footer-element1 .logo .about p {
+  color: #ffffffb3;
+  margin: 15px 0px;
+}
+
+footer .container .footer-element1 .logo .contact ul li {
+  margin: 8px 0px;
+  color: #fff;
+}
+
+footer .container .footer-element1 .logo .contact ul li strong {
+  font-weight: bolder;
+}
+
+footer .container .footer-element1 .information .title-information h3 {
+  font-size: 1.2857em;
+  font-weight: 600;
+  color: #fff;
+}
+
+footer .container .footer-element1 .information ul li {
+  margin: 8px 0px;
+}
+
+footer .container .footer-element1 .information ul li a {
+  color: #ffffffb3;
+}
+
+footer .container .footer-element1 .information ul li a:hover {
+  color: #28a745;
+}
+
+footer .container .footer-element1 .category .title-category h3 {
+  font-size: 1.2857em;
+  font-weight: 600;
+  color: #fff;
+}
+
+footer .container .footer-element1 .category ul li {
+  margin: 8px 0px;
+}
+
+footer .container .footer-element1 .category ul li a {
+  color: #ffffffb3;
+}
+
+footer .container .footer-element1 .category ul li a:hover {
+  color: #28a745;
+}
+
+footer .container .footer-element1 .sign-up {
+  width: 350px;
+}
+
+footer .container .footer-element1 .sign-up .title-sign-up h3 {
+  color: #fff;
+}
+
+footer .container .footer-element1 .sign-up .about {
+  margin: 10px 0px;
+}
+
+footer .container .footer-element1 .sign-up .about p {
+  color: #ffffffb3;
+}
+
+footer .container .footer-element1 .sign-up .search-email {
+  margin-top: 35px;
+}
+
+footer .container .footer-element1 .sign-up .search-email input {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  background-color: #fff;
+  width: 240px;
+  padding: 13px 20px;
+}
+
+footer .container .footer-element1 .sign-up .search-email button {
+  display: inline-block;
+  color: #fff;
+  padding: 13px 5px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  background-color: #28a745;
+  -webkit-transition: all 0.5s;
+  transition: all 0.5s;
+  width: 115px;
+}
+
+footer .container .footer-element1 .sign-up .search-email button:hover {
+  background-color: #000;
+}
+
+footer .container .crossbar {
+  position: relative;
+  width: 1519px;
+  border-top: 1px solid #fff;
+  height: 1px;
+  left: -210px;
+  margin: 65px 0px;
+}
+
+footer .container .footer-element2 {
+  padding-bottom: 20px;
+}
+/*# sourceMappingURL=footer.css.map */
